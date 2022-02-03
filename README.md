@@ -8,7 +8,7 @@ Join our beta 👉 https://jumpcat.dev
 
 Similar to your browser history, Jumpcat keeps track of your recently viewed Repositories, Pull Requests, Issues, Discussions and Files. 
 
-Press <kbd>Control</kbd>+<kbd>K</kbd> or <kbd>Command</kbd>+<kbd>K</kbd> (Mac).
+Press <kbd>Control</kbd>+<kbd>j</kbd> or <kbd>Command</kbd>+<kbd>j</kbd> (Mac).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/1393946/138471368-f3a56769-9604-4f47-8abc-deed789de8aa.png" alt="history" width="600" />
@@ -28,7 +28,7 @@ Click in your browser's address bar, press <kbd>j</kbd>+<kbd>space</kbd> followe
 
 ## Open Jumpcat (command mode)
 
-Press <kbd>Control</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> or <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (Mac).
+Press <kbd>Control</kbd>+<kbd>Shift</kbd>+<kbd>j</kbd> or <kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>j</kbd> (Mac).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/1393946/138471364-6fe6bc3b-1ae1-4637-b84d-610fa79e301f.png" alt="command" width="600" />
