@@ -2,7 +2,7 @@
 
 Jumpcat provides the fastest way to navigate through GitHub.com and to accomplish tasks, such as `creating a personal access token`. You may be familiar with the command palette in VS Code, which served as the idea for Jumpcat.
 
-Join our beta 👉 https://jumpcat.dev
+Install now 👉 https://jumpcat.dev
 
 ## Open Jumpcat
 
